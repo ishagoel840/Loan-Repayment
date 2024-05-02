@@ -89,9 +89,11 @@ loan_status:  Status of the loan
 
  ### Model Performance Evaluation
 Accuracy: 83%
+
 Precision : 95.00%
+
 Recall : 79.26%
-AUC (Class 1): 91.8%
+
 
 ## Conclusion
  Model Evaluation: Evaluated the model and XgBoost has the highest accuracy of 83%
