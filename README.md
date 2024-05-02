@@ -1,6 +1,8 @@
 # Loan Repayment Dataset.
 
-## About
+![loan repayment](https://github.com/ishagoel840/Loan-Repayment/assets/163164421/d7c4779b-eda3-4376-aaa0-eec2711aa830)
+
+## About the Dataset
 The dataset used for this project includes loan data with 80,000 records for training and 20,000 records for testing. The features include various aspects of the borrowers and their loan details, such as credit history, employment information, loan amount, interest rate, and the purpose of the loan.
 You are required to build and train a model that identifies a customer will repay or default from the loan dataset.
 
