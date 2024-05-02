@@ -85,7 +85,16 @@ loan_status:  Status of the loan
 3. Feature Engineering: Engineered new features to better capture the information in the dataset.
 4. Model Building: Built a classification model using Logistic Regression, KNN and XgBoost.
 - Hyperparameter tunning
-5. Model Evaluation: Evaluated the model and XgBoost has the highest accuracy of 83%
+
+
+ ### Model Performance Evaluation
+Accuracy: 83%
+Precision : 95.00%
+Recall : 79.26%
+AUC (Class 1): 91.8%
+
+## Conclusion
+ Model Evaluation: Evaluated the model and XgBoost has the highest accuracy of 83%
 
  ## Prediction on Test Dataset
 The preprocessing for test dataset is done in the same manner as the train dataset.
