@@ -85,7 +85,7 @@ loan_status:  Status of the loan
 - Dealing with Imbalanced data
 3. Feature Engineering: Engineered new features to better capture the information in the dataset.
 4. Model Building: Built a classification model using Logistic Regression, KNN and XgBoost.
-- Hyperparameter tunning
+- Hyperparameter tuning
 
 
  ### Model Performance Evaluation
