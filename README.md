@@ -89,18 +89,19 @@ loan_status:  Status of the loan
 
 
  ### Model Performance Evaluation
+ ```
 Accuracy: 83%
 
 Precision : 95.00%
 
 Recall : 79.26%
-
+```
 
 ## Conclusion
 ```
  Model Evaluation: Evaluated the model and XgBoost has the highest accuracy of 83%
 ```
  ## Prediction on Test Dataset
-The preprocessing for test dataset is done in the same manner as the train dataset.
+- The preprocessing for test dataset is done in the same manner as the train dataset.
 
- Successfully trained the model and  tuned model is fitted on the test dataset.
+  - Successfully trained the model and  tuned model is fitted on the test dataset.
