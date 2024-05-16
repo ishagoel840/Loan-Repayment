@@ -16,8 +16,7 @@ You are required to build and train a model that identifies a customer will repa
 |fico_range_high:| The upper boundary range the borrower’s FICO at loan origination belongs to.|
 |fico_range_low:| The lower boundary range the borrower’s FICO at loan origination belongs to.|
 |Grade:| LC assigned loan grade|
-|application_type:| Indicates whether the loan is an individual application or a joint
-application with two co-borrowers|
+|application_type:| Indicates whether the loan is an individual application or a joint application with two co-borrowers|
 |initial_list_status:| The initial listing status of the loan. Possible values are – W, F|
 |num_actv_bc_tl:| Number of currently active bankcard accounts.|
 |mort_acc:| Number of mortgage accounts.|
