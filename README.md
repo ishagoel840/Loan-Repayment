@@ -41,8 +41,9 @@ application with two co-borrowers|
 |revol_util:| Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit.|
 |loan_status: | Status of the loan|
 #### Target
+```
 loan_status:  Status of the loan
-
+```
 ## Key Steps
 1. Data Exploration and Analysis: Conducted a thorough exploratory data analysis to understand the dataset.
 2. Data Preprocessing: Performed data cleaning, handled missing values, and processed features for the model.
