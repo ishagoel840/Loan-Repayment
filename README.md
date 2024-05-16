@@ -1,4 +1,4 @@
-# Loan Repayment Dataset.
+# Loan Repayment (Classification Problem).
 ###### Tools Used: Machine Learning Models, python,Jupyter Notebook
 
 ![loan repayment](https://github.com/ishagoel840/Loan-Repayment/assets/163164421/d7c4779b-eda3-4376-aaa0-eec2711aa830)
