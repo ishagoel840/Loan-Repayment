@@ -44,11 +44,12 @@ You are required to build and train a model that identifies a customer will repa
 loan_status:  Status of the loan
 ```
 ## Key Steps
-1. Data Exploration and Analysis: Conducted a thorough exploratory data analysis to understand the dataset.
-2. Data Preprocessing: Performed data cleaning, handled missing values, and processed features for the model.
-- Dealing with Imbalanced data
-3. Feature Engineering: Engineered new features to better capture the information in the dataset.
-4. Model Building: Built a classification model using Logistic Regression, KNN and XgBoost.
+- Data Exploration and Analysis: Conducted a thorough exploratory data analysis to understand the dataset.
+- Data Preprocessing: Performed data cleaning, handled missing values, and processed features for the model.
+  - Dealing with Imbalanced data
+- Feature Engineering: Engineered new features to better capture the information in the dataset.
+- Splitting the dataset into test and validation data.
+- Model Building: Built a classification model using Logistic Regression, KNN and XgBoost.
 - Hyperparameter tuning
 
 
